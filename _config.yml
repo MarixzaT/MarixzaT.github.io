@@ -45,15 +45,36 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
- 
-# Publication Category - The following the list of publication categories and their headings
+ # Publication Category - The following list categorizes publications
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book Chapters'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Peer-Reviewed Research Manuscripts'
   conferences:
     title: 'Conference Papers'
+  in_progress:
+    title: 'Manuscripts in Progress'
+
+    ---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+## **Peer-Reviewed Research Manuscripts**
+- **Torres, M., Carlo, G., & Davis, A. N.** (2025). The associations between culture-related stressors and prosocial behaviors in U.S. Latino/a college students: The mediating role of cultural identity. *Adolescents, 5*(1), 4. [https://doi.org/10.3390/adolescents5010004](https://doi.org/10.3390/adolescents5010004)
+- **Partovi, R., Carlo, G., Torres, M., & Cruz, A. M.** (2024). Typologies of cultural stressors and assets: Exploring differential associations with prosocial behaviors and depressive symptoms among Latino/a young adults. *Cultural Diversity and Ethnic Minority Psychology.* [https://doi.org/10.1037/cdp0000663](https://doi.org/10.1037/cdp0000663)
+
+## **Manuscripts in Progress**
+- **Davis, A., Carlo, G., Torres, M., Sanders, H., & Cruz, L.** (Under review). Ethnic group differences in economic stress and out-group prosocial behaviors during the COVID-19 pandemic: A cultural process model.
+- **Carlo, G., Carrizales, A., Torres, M., Taylor, Z. E., & Ruiz, Y.** (In progress). Family ethnic socialization practices associated with cultural assets, civic responsibility, and prosocial behaviors in rural U.S. Latino/a youth.
+
+## **Book Chapters**
+- **Torres, M., Carlo, G., Carpenter, L., & Tran, K.** (Accepted pending revision). Fostering social justice and equity in U.S. ethnic/racial minoritized populations through prosocial behaviors. In D. Lapsley & J. Gibbs (Eds.), *Research Handbook on Lifespan Moral Development.* Edward Elgar Publishing.
+- **Carlo, G., Torres, M., Partovi, R., & Cruz, A.** (2024). Moral development. In W. Troop-Gordon & E. Neblett (Eds.), *Encyclopedia of Adolescence (2nd ed.).* New York: Elsevier Press.
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
